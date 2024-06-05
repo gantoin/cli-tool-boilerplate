@@ -11,3 +11,4 @@ export JAVA_HOME=$GRAALVM_HOME
 ```
 ./gradlew nativeCompile
 ```
+
